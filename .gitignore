@@ -1,0 +1,16 @@
+    # Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+    # Temporary download folder (should not be committed)
+downloads/
+
+    # OS-specific files
+.DS_Store
+Thumbs.db
+
+    # IDE specific files (optional)
+.idea/
+.vscode/
+    
